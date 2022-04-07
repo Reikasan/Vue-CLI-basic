@@ -2,6 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h3>Hello Scoped CSS!</h3>
   </div>
 </template>
 
@@ -16,3 +17,4 @@ export default {
   }
 }
 </script>
+
